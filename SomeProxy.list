@@ -8,3 +8,8 @@ DOMAIN-SUFFIX,bulink.me
 DOMAIN,sub.store
 
 DOMAIN,edge.microsoft.com
+
+DOMAIN,msftncsi.com
+DOMAIN,msftconnecttest.com
+
+

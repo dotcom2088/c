@@ -9,7 +9,5 @@ DOMAIN,sub.store
 
 DOMAIN,edge.microsoft.com
 
-DOMAIN,msftncsi.com
-DOMAIN,msftconnecttest.com
-
-
+DOMAIN-SUFFIX,msftncsi.com
+DOMAIN-SUFFIX,msftconnecttest.com

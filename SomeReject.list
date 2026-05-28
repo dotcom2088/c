@@ -4,4 +4,4 @@ DOMAIN,download.zotero.org
 DOMAIN,bartelsmedia.com
 
 #iOS升级屏蔽
-DOMAIN,gdmf.apple.com:443
+DOMAIN,gdmf.apple.com

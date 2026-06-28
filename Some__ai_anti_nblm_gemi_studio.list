@@ -1,0 +1,32 @@
+#from kelee
+# Gemini+notebooklm
+DOMAIN, ai.google.dev
+DOMAIN, aida.googleapis.com
+DOMAIN, aistudio.google.com
+DOMAIN, alkalicore-pa.clients6.google.com
+DOMAIN, alkalimakersuite-pa.clients6.google.com
+DOMAIN, bard.google.com
+DOMAIN, deepmind.com
+DOMAIN, deepmind.google
+DOMAIN, geller-pa.googleapis.com
+DOMAIN, gemini.google
+DOMAIN, gemini.google.com
+DOMAIN, generativeai.google
+DOMAIN, generativelanguage.googleapis.com
+DOMAIN, makersuite.google.com
+DOMAIN, proactivebackend-pa.googleapis.com
+DOMAIN, robinfrontend-pa.googleapis.com
+DOMAIN, webchannel-alkalimakersuite-pa.clients6.google.com
+DOMAIN, notebooklm.google
+DOMAIN, notebooklm.google.com
+DOMAIN, jules.google
+DOMAIN, jules.google.com
+DOMAIN, labs.google
+DOMAIN, aisandbox-pa.googleapis.com
+
+# Google Antigravity
+DOMAIN-SUFFIX, antigravity.google
+DOMAIN-SUFFIX, antigravity-unleash.goog
+DOMAIN, daily-cloudcode-pa.sandbox.googleapis.com
+DOMAIN, daily-cloudcode-pa.googleapis.com
+AND, ((DOMAIN-KEYWORD, antigravity-auto-updater-), (DOMAIN-SUFFIX, run.app))

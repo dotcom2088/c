@@ -1,5 +1,4 @@
-# BlockAdvertisers for Mihomo/Clash
-# Converted from: https://kelee.one/Tool/Loon/Lpx/BlockAdvertisers.lpx
+# BlockAdvertisers
 # Format: classical rule-provider (the REJECT policy is assigned in the main config)
 # Loon URL-REGEX/Rewrite/MitM entries are omitted because Clash cannot match HTTPS URL paths.
 payload:

@@ -2,3 +2,8 @@
 # Format: classical rule-provider; DIRECT is assigned in the main config.
 payload:
   - "AND,((DOMAIN-KEYWORD,tnc),(OR,((DOMAIN-SUFFIX,capcutapi.com),(DOMAIN-SUFFIX,zijieapi.com),(DOMAIN-SUFFIX,isnssdk.com),(DOMAIN-SUFFIX,toutiaoapi.com),(DOMAIN-SUFFIX,bytedance.com),(DOMAIN-SUFFIX,snssdk.com),(DOMAIN-SUFFIX,sgsnssdk.com))))"
+  - "DOMAIN,init.sms.mob.com"
+  - "DOMAIN,sdkapi.sms.mob.com"
+  - "DOMAIN,code.sms.mob.com"
+  - "DOMAIN,smartop-sdkapi.jiguang.cn"
+  - "DOMAIN,sdk.verification.jiguang.cn"

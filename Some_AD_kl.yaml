@@ -171,6 +171,7 @@ payload:
   - 'DOMAIN,opehs.tanx.com'
   - 'DOMAIN,beacon-api.aliyuncs.com'
   - 'DOMAIN,adash.man.aliyuncs.com'
+  - 'DOMAIN,adashx.m.taobao.com'
   - 'DOMAIN,applog.uc.cn'
   - 'DOMAIN,atoken.m.taobao.com'
   - 'AND,((DOMAIN-KEYWORD,adash),(DOMAIN-SUFFIX,ut.taobao.com))'
@@ -292,6 +293,7 @@ payload:
   - 'DOMAIN-SUFFIX,hzjizhun.com'
   - 'DOMAIN-SUFFIX,sogaha.cn'
   - 'DOMAIN,zxid-m.mobileservice.cn'
+  - 'DOMAIN,xadsmartget.adgain.cn'
   - 'DOMAIN-SUFFIX,tradplusad.com'
   - 'DOMAIN-SUFFIX,fancyapi.com'
   - 'DOMAIN-SUFFIX,medproad.com'
@@ -321,3 +323,4 @@ payload:
   - 'DOMAIN-SUFFIX,tobidad.cn'
   - 'DOMAIN-SUFFIX,tobidad.com'
   - 'DOMAIN,ep7.facebook.com'
+

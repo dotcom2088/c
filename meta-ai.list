@@ -20,3 +20,5 @@ DOMAIN-SUFFIX,ecto1usercontent.com
 DOMAIN-SUFFIX,meta-agents-apps.workers.dev
 DOMAIN,meta-ohttp-config-prod.fastly-edge.com
 DOMAIN,meta-ohttp-relay-prod.fastly-edge.com
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,Instagram.com

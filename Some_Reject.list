@@ -4,8 +4,8 @@ DOMAIN,download.zotero.org
 DOMAIN,bartelsmedia.com
 
 #iOS升级屏蔽
-#DOMAIN,gdmf.apple.com
-#DOMAIN,gdmf-ados.apple.com
+DOMAIN,gdmf.apple.com
+DOMAIN,gdmf-ados.apple.com
 
 #clash mi
 DOMAIN,dot.clashmi.app
